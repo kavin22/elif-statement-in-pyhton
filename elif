@@ -1,0 +1,7 @@
+#elif satement in Python
+Age_alen = 20
+Age_blen = 20
+if Age_blen > Age_alen:
+  print("Age_blen is greater than Age_alen")
+elif Age_alen == Age_blen:
+  print("Age_alen and Age_blen are equal")
